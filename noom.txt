@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXQ6UG9vbW1pbiB8IFN1YjEg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/Epodonios/v2ray-configs
+#support-url: https://github.com/poommin2543/Config-VPN
 #profile-web-page-url: https://github.com/poommin2543/Config-VPN
 #profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
