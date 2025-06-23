@@ -5,3 +5,7 @@ Config List 1:
 ```
 https://raw.githubusercontent.com/poommin2543/Config-VPN/refs/heads/main/noom.txt
 ```
+Config List 2:
+```
+https://raw.githubusercontent.com/poommin2543/Config-VPN/refs/heads/main/chinaNoom.txt
+```
