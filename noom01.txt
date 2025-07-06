@@ -1,11 +1,7 @@
-#profile-title: base64:8J+GkyBHaXQ6UG9vbW1pbiB8IFN1YjEg8J+UpQ==
+#profile-title: base64:8J+MiCBWUE4gUHJlbWl1bSB8IFRhaWxhbmQgfCBBSVM=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/poommin2543/Config-VPN
 #profile-web-page-url: https://github.com/poommin2543/Config-VPN
-#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
-#profile-update-interval: 1
-#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/poommin2543/Config-VPN
-#profile-web-page-url: https://github.com/poommin2543/Config-VPN
+
 vless://f2241eb7-e6dc-45de-a145-4f9cc77243b1@vm3.vpnthailand.cloud:443?security=none&encryption=none&type=ws&host=speedtest.net&path=/#🟢𝘀𝗲𝗿𝘃𝗲3-𝗔𝗜𝗦:𝗣𝗼𝗿𝘁𝟒𝟒𝟑-admin
