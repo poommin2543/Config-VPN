@@ -1,0 +1,11 @@
+#profile-title: base64:8J+GkyBHaXQ6UG9vbW1pbiB8IFN1YjEg8J+UpQ==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/poommin2543/Config-VPN
+#profile-web-page-url: https://github.com/poommin2543/Config-VPN
+#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
+#profile-update-interval: 1
+#subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
+#support-url: https://github.com/poommin2543/Config-VPN
+#profile-web-page-url: https://github.com/poommin2543/Config-VPN
+vmess://eyJ2IjoiMiIsInBvcnQiOiI0NDMiLCJhaWQiOiIwIiwiZGV2aWNlSUQiOiIiLCJtb2RlIjoiIiwic2VydmljZU5hbWUiOiJub25lIiwicHMiOiJBaXMt8J+UuPCflK4g4oCi8J2XnPCdl7vwnZiB8J2XsvCdl7/wnZe78J2XsvCdmIHigKLwn5Su44CMIOKAovCdl6PwnZe/8J2XrvCdl7LwnZeq8J2XruKAoiDjgI0iLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsInRscyI6Im5vbmUiLCJoZWFkZXJUeXBlIjoiIiwiYWxwbiI6IiIsImV4dHJhIjoiIiwicGF0aCI6IlwvIiwiaWQiOiIyZDgzNTdkYS0yMGRlLTRhNDMtOTQyNi01MDE5ZmY4MjYxZWQiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwic2VlZCI6IiIsImZwIjoiIiwiZnJhZ21lbnQiOiIiLCJhZGQiOiJ2bTEudnBudGhhaWxhbmQuY2xvdWQiLCJzbmkiOiIifQ==
